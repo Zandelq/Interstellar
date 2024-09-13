@@ -59,7 +59,7 @@ let splashtext = [
   'my school uses lanschool😓',
   'This is fastest growing proxy server',
   'Made by someone ',
-  'Check out https://discord.gg/hBGXPPJyaD :)',
+  'Check out my page in schoology:)',
   'Thanks for using the site',
   'Follow me on Tiktok (@zandelq)',
   'Subscribe to me plz on YouTube (@zandelq)',
