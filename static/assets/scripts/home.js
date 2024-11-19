@@ -56,14 +56,14 @@ document.addEventListener('DOMContentLoaded', function (event) {
 })
 
 let splashtext = [
-  'my school uses lanschool😓',
+  'To turn off lanschool turn off your wifi',
   'This is fastest growing proxy server',
-  'Made by someone ',
-  'Check out my page in schoology:)',
+  'Made by JFK',
+  'To Turn off ads go to settings and scroll down',
   'Thanks for using the site',
-  'Follow me on Tiktok (@zandelq)',
-  'Subscribe to me plz on YouTube (@zandelq)',
-  'my school is blocking everything',
+  'If you have a low score remember someone got a 4% or 14%in star',
+  'turn off ads it's recommended ',
+  'i got a 36% in star before in reading',
   'Check out the settings page and games',
   'i am sure none of yall read this',
 ]
