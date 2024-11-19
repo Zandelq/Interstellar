@@ -62,7 +62,7 @@ let splashtext = [
   'To Turn off ads go to settings and scroll down',
   'Thanks for using the site',
   'If you have a low score remember someone got a 4% or 14%in star',
-  'turn off ads it's recommended ',
+  'turn off ads its recommended',
   'i got a 36% in star before in reading',
   'Check out the settings page and games',
   'i am sure none of yall read this',
